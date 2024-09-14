@@ -65,6 +65,15 @@ git config --global user.email "MY_NAME@example.com"
 
 # 6b - check on github.com in your branch if the code files are updated
 
+#7 - create requirements.txt
+
+# 7a - type in terminal -> pipreqs --ignore myenv/
+  (replace your virtualenvironment foldername)
+
+# 7b - add, commit, push and pull request with main
+
+#Note - to install packages with correct version you can type in terminal 
+pip install -r requirements.txt
 
 
 
